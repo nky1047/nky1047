@@ -1,15 +1,16 @@
-Hi 👋 My name is Nitin Yadav
+Hi 👋 I am Nitin
 ============================
 
 Full Stack Java Developer
 -------------------------
 
-I've been learning to code for 3 years, after joining my first organisation, I learned Full Stack Web Development.I learnt Spring Boot, Maven, JPA for Back-end and JS, Angular 6, HTML, CSS & Bootstrap for Front-end.I really have a passion for back-end development.
+An ECE Graduate.
+Have 2+ Years of Web Develeopment Experience.
+Techs used like: Java, Spring Boot, Angular 6, ReactJS. 
+
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nky1047@gmail.com](mailto:nky1047@gmail.com)
-* 🚀  I'm currently working on [Flights Managemenent System](http://github.com/nky1047/fms-airport-ms)
-* 🧠  I'm learning Java and Spring Boot also some Algorithms
 
 ### Skills
 
