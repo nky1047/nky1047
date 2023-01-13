@@ -7,6 +7,7 @@ Full Stack Java Developer
 An ECE Graduate.
 Have 2+ Years of Web Develeopment Experience.
 Techs used like: Java, Spring Boot, Angular 6, ReactJS. 
+Also, I have used some CI/CD Tools like Selenium, Cucumber and Jenkins.
 
 
 * 🌍  I'm based in India
