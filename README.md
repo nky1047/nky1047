@@ -5,7 +5,7 @@ Full Stack Java Developer
 -------------------------
 
 An ECE Graduate.
-Have 2+ Years of Web Develeopment Experience.
+Have 03 Years of Web Develeopment Experience.
 Techs used like: Java, Spring Boot, Angular 6, ReactJS. 
 CI/CD Tools like Github, Cucumber and Jenkins.
 
