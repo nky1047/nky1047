@@ -1,17 +1,7 @@
 Hi 👋 I am Nitin
 ============================
 
-Full Stack Java Developer
--------------------------
-
-An ECE Graduate.
-Have 03 Years of Develeopment Experience in Banking Domain, worked with different Client from US and AU Based Banks.
-Techs used like: Java, Spring Boot, Angular 6, ReactJS. 
-CI/CD Tools like Github, Cucumber and Jenkins.
-
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [nky1047@gmail.com](mailto:nky1047@gmail.com)
+Working as a Full Stack Java Developer.
 
 ### Skills
 
