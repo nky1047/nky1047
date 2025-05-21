@@ -1,4 +1,5 @@
-Hi 👋 I am Nitin
+Hi 👋
+I'm Nitin Yadav
 ============================
 
 A Proficient Backend Java Developer.
